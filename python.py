@@ -21,6 +21,7 @@ def main():
 #--------------------------------Banner/LOGO------------------------------------------
 def logo():
   print """%s
+
  ┏━━┓░░░┏┓░░░┏━┓  ┏━━┓┏━┓░░░░░░░%sAuthor by %Arifaisal%s
  ┃┏┓┃┏┳┓┣┫┏━┓┃━┫  ┗┃┃┛┃━┫┏━┓░┏┓░ %sGithub %sgithub.com/IDArief%s
  ┃┣┫┃┃┏┛┃┃┃┻┫┃┏┛  ┏┃┃┓┣━┃┃╋┗┓┃┗┓%sTeam %CyberGebang%s
