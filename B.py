@@ -28,7 +28,7 @@ def main():
 	exec(open('.banner').read())
 	ayana = ['01','02','03','04','05','06','07','69','99','00']
 	try:
-		ho = int(input(f'{AQUA}KangSpam {biasa}> {AQUA}'))
+		ho = int(input(f'{AQUA}Arifisal {biasa}> {AQUA}'))
 	except KeyboardInterrupt:
 		lol = 'Program diberhentikan'
 		to(lol)
