@@ -22,10 +22,10 @@ def main():
 def logo():
   print """%s
 
- ┏━━┓░░░┏┓░░░┏━┓  ┏━━┓┏━┓░░░░░░░%sAuthor by %Arifaisal%s
- ┃┏┓┃┏┳┓┣┫┏━┓┃━┫  ┗┃┃┛┃━┫┏━┓░┏┓░ %sGithub %sgithub.com/IDArief%s
- ┃┣┫┃┃┏┛┃┃┃┻┫┃┏┛  ┏┃┃┓┣━┃┃╋┗┓┃┗┓%sTeam %CyberGebang%s
- ┗┛┗┛┗┛░┗┛┗━┛┗┛░  ┗━━┛┗━┛┗━━┛┗━┛%sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
+ "%s┏━━┓░░░┏┓░░░┏━┓  ┏━━┓┏━┓░░░░░░░%sAuthor by %Arifaisal%s
+ "%s┃┏┓┃┏┳┓┣┫┏━┓┃━┫  ┗┃┃┛┃━┫┏━┓░┏┓░ %sGithub %sgithub.com/IDArief%s
+ "%s┃┣┫┃┃┏┛┃┃┃┻┫┃┏┛  ┏┃┃┓┣━┃┃╋┗┓┃┗┓%sTeam %CyberGebang%s
+ "%s┗┛┗┛┗┛░┗┛┗━┛┗┛░  ┗━━┛┗━┛┗━━┛┗━┛%sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 #-------------------------------Input Function------------------------------------------
 def input():
   global nom
