@@ -21,10 +21,12 @@ def main():
 #--------------------------------Banner/LOGO------------------------------------------
 def logo():
   print """%s 
-   ___       _     ___  ____         __ %sAuthor by %Arifisal%s 
-  / _ | ____(_)__ / _/ /  _/__ ___ _/ / %sGithub %sgithub.com/ID-ARIEF%s  
- / __ |/ __/ / -_) _/ _/ /(_-</ _ `/ / %sTeam %CyberGebang%s  
-/_/ |_/_/ /_/\__/_/  /___/___/\_,_/_/ %sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)    
+   ___       _     ___  ____         __ 
+  / _ | ____(_)__ / _/ /  _/__ ___ _/ / %sAuthor by %Arifisal%s  
+ / __ |/ __/ / -_) _/ _/ /(_-</ _ `/ / %sGithub %sgithub.com/ID-ARIEF%s
+/_/ |_/_/ /_/\__/_/  /___/___/\_,_/_/ %sTeam %CyberGebang%s    
+                                     %sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)    
+
 #-------------------------------Input Function------------------------------------------
 def input():
   global nom
