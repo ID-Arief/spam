@@ -25,7 +25,7 @@ def logo():
   / _ | ____(_)__ / _/ /  _/__ ___ _/ / %sAuthor by %Arifisal%s  
  / __ |/ __/ / -_) _/ _/ /(_-</ _ `/ / %sGithub %sgithub.com/ID-ARIEF%s
 /_/ |_/_/ /_/\__/_/  /___/___/\_,_/_/ %sTeam %CyberGebang%s    
-                                     %sTools spam otp dengan 29 spammers"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)    
+                                        
 #-------------------------------Input Function------------------------------------------
 def input():
   global nom
